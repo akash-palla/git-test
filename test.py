@@ -1,2 +1,2 @@
 print("Hello Akash")
-print("Is there any Conflict?")
+print("Conflict Resolved!")
